@@ -1,0 +1,67 @@
+html {
+    margin: 0px;
+  }
+  
+  span {
+    display: block;
+  }
+  .canvas {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+  }
+ 
+  .button {
+    width: 100px;
+    height: 100px;
+    border: solid black 5px;
+    display: inline-block;
+  }
+  
+  #grey {
+    background: grey;
+  }
+  
+  #white {
+    background: white;
+  }
+  #skyblue {
+    background: skyblue;
+  }
+  #greenyellow {
+    background: greenyellow;
+  }
+
+  #purple {
+    background: purple;
+  }
+
+  #goldenrod {
+    background: goldenrod;
+  }
+  #red {
+    background: red;
+  }
+
+  .heading {
+    /* padding-left: 600px; */
+    text-align: center;
+  }
+
+ .footer-link {
+ color: black;
+ text-align: center;
+ 
+ }
+
+ .footer-link:hover {
+  color: #009688;
+ }
+
+ .footer-link1 {
+  margin: 720px;
+ }
+ .footer-link1:hover{
+  color: #009688;
+ }
+ 
